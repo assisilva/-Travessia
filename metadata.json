@@ -1,0 +1,7 @@
+{
+  "name": "Alerta Travessia Santos",
+  "description": "Aplicativo de alerta em tempo real sobre a travessia de catraias entre Vicente de Carvalho e Santos, com foco na segurança e condições de maré e tráfego marítimo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
